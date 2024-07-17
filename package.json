@@ -1,6 +1,7 @@
 {
   "name": "planner",
   "private": true,
+  "homepage": "https://limaofelipe.github.io/planner/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

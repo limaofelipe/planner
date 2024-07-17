@@ -1,6 +1,5 @@
 <h1 align="center"> IGN Feed </h1>
 
-<<<<<<< HEAD
 <p align="center">
 Planeje suas viagens e atividades para se divertir durante as férias.
 
@@ -45,5 +44,3 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Felipe Lima :wave:
 =======
-
->>>>>>> c31ee42da6259960d4dad40703eff7685e55a409

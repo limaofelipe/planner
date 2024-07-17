@@ -30,7 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Planner é um portal onde você pode cadastrar e planejar suas férias
 
-- [Acesse o projeto finalizado, online](https://ignfeed.netlify.app)
 
 ## 🔖 Layout
 
